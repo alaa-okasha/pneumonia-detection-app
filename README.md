@@ -4,6 +4,8 @@ This project is a full-stack Pneumonia Detection web application built using Rea
 The model, trained using TensorFlow, accurately detects signs of pneumonia and returns a confidence score for each prediction. The frontend offers a clean and user-friendly interface with both standard upload and drag-and-drop image input features.
 Designed for simplicity and speed, the app delivers a seamless experience from image submission to diagnosis, making it suitable for medical screening prototypes and educational demonstrations in AI for healthcare.
 
+---
+![Screenshot](./screenshot.png)
 
 ---
 ## 📁 Project Structure
