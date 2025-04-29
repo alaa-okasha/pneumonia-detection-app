@@ -63,10 +63,10 @@ npm run dev
 ---
 
 ## 📸 Features
--Upload or drag & drop an X-ray image
--Get real-time pneumonia prediction
--Confidence score
--React frontend + FastAPI backend
+- Upload or drag & drop an X-ray image
+- Get real-time pneumonia prediction
+- Confidence score
+- React frontend + FastAPI backend
 
 ---
    
