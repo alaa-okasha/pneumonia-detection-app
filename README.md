@@ -5,7 +5,7 @@ The model, trained using TensorFlow, accurately detects signs of pneumonia and r
 Designed for simplicity and speed, the app delivers a seamless experience from image submission to diagnosis, making it suitable for medical screening prototypes and educational demonstrations in AI for healthcare.
 
 ---
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot 2025-04-29 111629.png)
 
 ---
 ## 📁 Project Structure
