@@ -43,6 +43,32 @@ uvicorn main:app --reload
 🔗 By default, the API runs on: http://127.0.0.1:8000
 
 ---
+
+## 🖼️ How to Run the React App (Frontend)
+
+1.Navigate to the frontend folder
+```bash
+cd frontend
+```
+2.Install dependencies
+```bash
+npm install
+```
+3.Run the app
+```bash
+npm run dev
+```
+🌐 The frontend will be available at: https://www.google.com/search?q=http://localhost:5173
+
+---
+
+## 📸 Features
+-Upload or drag & drop an X-ray image
+-Get real-time pneumonia prediction
+-Confidence score
+-React frontend + FastAPI backend
+
+---
    
 
 
